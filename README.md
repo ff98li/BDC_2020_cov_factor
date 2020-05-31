@@ -27,18 +27,18 @@ could take a pretty long while to get the dependencies done. Work on the report 
 ## Plots
 I'm posting the plots here for those who have trouble using R to read.
 ### PCA on 6 variables
-#### With respect to R0
+#### With respect to R0, 189 countries
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_6var.png)
 #### Loading Plot
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_6var_loading.png)
-#### With respect to CFR
+#### With respect to CFR, 142 countries
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_CFR_6var.png)
 ### PCA on 11 variables
-#### With respect to R0
+#### With respect to R0, 29 countries
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_29_country.png)
 #### Loading Plot
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_29_country_loading.png)
-#### With respect to CFR
+#### With respect to CFR, 29 countries
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_CFR_29_country.png)
 
 Note that I did not post the loading plot for the CFR because I'm seriously considering abandoning this measurement.
