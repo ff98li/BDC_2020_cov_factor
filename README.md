@@ -40,4 +40,6 @@ I'm posting the plots here for those who have trouble using R to read.
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_29_country_loading.png)
 #### With respect to CFR
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_CFR_29_country.png)
+
+Note that I did not post the loading plot for the CFR because I'm seriously considering abandoning this measurement.
 ## Contributing
