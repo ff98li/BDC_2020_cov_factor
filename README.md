@@ -26,20 +26,19 @@ could take a pretty long while to get the dependencies done. Work on the report 
 
 ## Plots
 I'm posting the plots here for those who have trouble using R to read.
-### PCA on 6 variables
-#### With respect to R0, 189 countries
+### PCA on 6 variables, 144 countries
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_6var.png)
-#### Loading Plot
+### Loading Plot
 ![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_6var_loading.png)
-#### With respect to CFR, 142 countries
-![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_CFR_6var.png)
-### PCA on 11 variables
-#### With respect to R0, 29 countries
-![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_29_country.png)
-#### Loading Plot
-![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_29_country_loading.png)
-#### With respect to CFR, 29 countries
-![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_CFR_29_country.png)
+### Decision Tree
+![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/tree.png)
+### ROC curve for the decision tree model
+![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/ROC.png)
+### PCA on 2 variables, 144 countries
+![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/PCA_R0_2var.png)
+### Linear Regression for Populations
+![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/LM_population.png)
+### Linear Regression for Obesity
+![alt text](https://github.com/ff98li/BDC_2020_cov_factor/blob/master/plots/LM_obesity.png)
 
-Note that I did not post the loading plot for the CFR because I'm seriously considering abandoning this measurement.
 ## Contributing
