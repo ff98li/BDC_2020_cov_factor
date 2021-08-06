@@ -1,5 +1,7 @@
 # Investigating factors contributing to COVID-19 control via PCA
 
+[Link to the analysis report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ff98li/BDC_2020_cov_factor/master/Covid_19_data_analysis.pdf)
+
 All the datasets and R scripts are here
 
 ## Download
